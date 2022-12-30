@@ -12,8 +12,8 @@ git config --global user.email "abc@zy.com"
 lệnh để khởi tạo Git repo là:`Git init`
 
 ## Phần 3 - Commit
-```
 Dùng hai lệnh để commit thay đổi tên Git repo:  
+```
 git add .  
 
 git commit -m "Thông điệp commit"  
